@@ -1,3 +1,0 @@
-#!/bin/sh
-fi
-git subtree push --prefix "#001 qr code component ui/" origin gh-pages
